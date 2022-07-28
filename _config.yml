@@ -28,7 +28,7 @@ tagline: A simple blog showcasing the problems I have solved in my personal work
 description: >-                        # used by seo meta and the atom feed.
   A simple tech blog.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'http://dudelee.github.io'
 
 github:
   username: dudelee             # change to your github username
@@ -72,7 +72,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:    [light|dark]
+theme_mode:    [dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
